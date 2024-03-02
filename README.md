@@ -38,12 +38,13 @@ Quick Reference
 [Vue 3](./docs/vue.md)<!--rehype:style=background: rgb(64 184 131);&class=contributing-->  
 [Github Copilot](./docs/github-copilot.md)<!--rehype:style=background: rgb(125 45 220);&class=tag contributing&data-lang=AI&data-info=👆看看还缺点儿什么？-->  
 [Chown](./docs/chown.md)<!--rehype:style=background: rgb(12 75 51/var(\-\-bg\-opacity));&class=contributing-->  
+[R 语言](./docs/r.md)<!--rehype:style=background: rgb(39 108 192);&class=contributing-->  
 <!--rehype:class=home-card-->
 
 ## 编程
 
 [Bash](./docs/bash.md)<!--rehype:style=background: rgb(72 143 223);-->  
-[C](./docs/c.md)<!--rehype:style=background: rgb(92 107 192);-->  
+[C 语言](./docs/c.md)<!--rehype:style=background: rgb(92 107 192);-->  
 [C#](./docs/cs.md)<!--rehype:style=background: rgb(6 147 13);&class=contributing-->  
 [C++](./docs/cpp.md)<!--rehype:style=background: rgb(6 147 13);&class=contributing-->  
 [Dart](./docs/dart.md)<!--rehype:style=background: rgb(64 196 255);-->  
@@ -65,6 +66,7 @@ Quick Reference
 [MATLAB](./docs/matlab.md)<!--rehype:style=background: rgb(0 118 168);&class=contributing-->  
 [PHP](./docs/php.md)<!--rehype:style=background: rgb(79 91 147);-->  
 [Python](./docs/python.md)<!--rehype:style=background: rgb(43 91 132);-->  
+[R 语言](./docs/r.md)<!--rehype:style=background: rgb(39 108 192);&class=contributing&data-info-->  
 [Ruby](./docs/ruby.md)<!--rehype:style=background: rgb(204 52 45);-->  
 [Rust](./docs/rust.md)<!--rehype:style=background: rgb(71 71 71);-->  
 [Scala](./docs/scala.md)<!--rehype:style=background: rgb(34 82 94);-->  
@@ -141,47 +143,52 @@ Quick Reference
 [ADB, Android Debug Bridge](./docs/adb.md)<!--rehype:style=background: rgb(238 0 0);&class=contributing tag&data-lang=Android&data-info=👆看看还缺点儿什么？-->  
 [Ansible](./docs/ansible.md)<!--rehype:style=background: rgb(238 0 0);&class=contributing tag&data-lang=RedHat&data-info=👆看看还缺点儿什么？-->  
 [Awk](./docs/awk.md)<!--rehype:style=background: rgb(16 185 129);-->  
-[Conan](./docs/conan.md)<!--rehype:style=background: rgb(0 193 9);&class=tag&data-lang=C/C++-->  
-[Conda](./docs/conda.md)<!--rehype:style=background: rgb(68 168 51);&class=tag&data-lang=Python-->  
-[CocoaPods](./docs/cocoapods.md)<!--rehype:style=background: rgb(251 0 6);&class=tag&data-lang=C/C++-->  
-[Cargo](./docs/cargo.md)<!--rehype:style=background: rgb(71 71 71);&class=tag&data-lang=Rust-->  
 [Curl](./docs/curl.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [Chmod](./docs/chmod.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [Chown](./docs/chown.md)<!--rehype:style=background: rgb(12 75 51/var(\-\-bg\-opacity));&class=contributing-->
 [Cron](./docs/cron.md)<!--rehype:style=background: rgb(239 68 68);-->  
 [CMake](./docs/cmake.md)<!--rehype:style=background: rgb(92 107 192);&class=contributing-->  
-[Make](./docs/make.md)<!--rehype:style=background: rgb(99 99 99);&class=contributing-->  
-[Gdb](./docs/gdb.md)<!--rehype:style=background: rgb(215 89 62);-->  
-[Git](./docs/git.md)<!--rehype:style=background: rgb(215 89 62);-->  
-[Grep](./docs/grep.md)<!--rehype:style=background: rgb(16 185 129);-->  
+[CMD](./docs/cmd.md)<!--rehype:style=background: rgb(99 99 99);-->  
 [Find](./docs/find.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [FFmpeg](./docs/ffmpeg.md)<!--rehype:style=background: rgb(0 193 9);&class=contributing-->  
+[Gdb](./docs/gdb.md)<!--rehype:style=background: rgb(215 89 62);-->  
+[Git](./docs/git.md)<!--rehype:style=background: rgb(215 89 62);&class=tag&data-lang=版本控制-->  
+[Grep](./docs/grep.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [Htop](./docs/htop.md)<!--rehype:style=background: rgb(16 185 129);-->  
-[Homebrew](./docs/homebrew.md)<!--rehype:style=background: rgb(252 185 87);&class=tag&data-lang=macOS-->  
-[Netstat](./docs/netstat.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [iptables](./docs/iptables.md)<!--rehype:style=background: rgb(32 74 135);-->  
 [jq](./docs/jq.md)<!--rehype:style=background: rgb(16 185 129);&class=tag&data-lang=JSON-->  
 [Justfile](./docs/justfile.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [Lsof](./docs/lsof.md)<!--rehype:style=background: rgb(16 185 129);-->  
-[Mitmproxy](./docs/mitmproxy.md)<!--rehype:style=background: rgb(4 92 135);-->  
+[Make](./docs/make.md)<!--rehype:style=background: rgb(99 99 99);&class=contributing-->  
+[Netstat](./docs/netstat.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [Netcat](./docs/netcat.md)<!--rehype:style=background: rgb(4 92 135);-->  
 [OpenSSL](./docs/openssl.md)<!--rehype:style=background: rgb(114 20 18);-->  
 [ps](./docs/ps.md)<!--rehype:style=background: rgb(99 99 99);-->  
+[Pandoc](./docs/pandoc.md)<!--rehype:style=background: rgb(99 99 99);&class=tag&data-lang=文档转换器-->  
 [Sed](./docs/sed.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [Systemd](./docs/systemd.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [SSH](./docs/ssh.md)<!--rehype:style=background: rgb(99 99 99);-->  
-[Subversion (SVN)](./docs/subversion.md)<!--rehype:style=background: rgb(99 99 99);-->  
+[Subversion (SVN)](./docs/subversion.md)<!--rehype:style=background: rgb(99 99 99);&class=tag&data-lang=版本控制-->  
 [Screen](./docs/screen.md)<!--rehype:style=background: rgb(99 99 99);-->  
 [Sysdig](./docs/sysdig.md)<!--rehype:style=background: rgb(1 171 199);-->  
 [Tmux](./docs/tmux.md)<!--rehype:style=background: rgb(99 99 99);-->  
 [Taskset](./docs/taskset.md)<!--rehype:style=background: rgb(99 99 99);-->  
-[YUM](./docs/yum.md)<!--rehype:style=background: rgb(86 86 123);-->  
-[CMD](./docs/cmd.md)<!--rehype:style=background: rgb(99 99 99);-->  
-[Zip](./docs/zip.md)<!--rehype:style=background: rgb(99 99 99);-->  
+[tar](./docs/tar.md)<!--rehype:style=background: rgb(215 89 62);&class=tag&data-lang=解压缩-->  
+[Zip](./docs/zip.md)<!--rehype:style=background: rgb(99 99 99);&class=tag&data-lang=解压缩-->  
+<!--rehype:class=home-card-->
+
+## 工具箱
+
 [APT](./docs/apt.md)<!--rehype:style=background: rgb(30 144 255);-->  
-[tar](./docs/tar.md)<!--rehype:style=background: rgb(215 89 62);-->  
-[pacman](./docs/pacman.md)<!--rehype:style=background: rgb(24 147 209);&class=tag&data-lang=archlinux&class=contributing-->  
+[Conan](./docs/conan.md)<!--rehype:style=background: rgb(0 193 9);&class=tag&data-lang=C/C++-->  
+[Conda](./docs/conda.md)<!--rehype:style=background: rgb(68 168 51);&class=tag&data-lang=Python-->  
+[CocoaPods](./docs/cocoapods.md)<!--rehype:style=background: rgb(251 0 6);&class=tag&data-lang=C/C++-->  
+[Cargo](./docs/cargo.md)<!--rehype:style=background: rgb(71 71 71);&class=tag&data-lang=Rust-->  
+[Homebrew](./docs/homebrew.md)<!--rehype:style=background: rgb(252 185 87);&class=tag&data-lang=macOS-->  
 [Linux Command](./docs/linux-command.md)<!--rehype:style=background: rgb(215 89 62);&class=tag&data-lang=命令速查-->  
+[Mitmproxy](./docs/mitmproxy.md)<!--rehype:style=background: rgb(4 92 135);-->  
+[Pacman](./docs/pacman.md)<!--rehype:style=background: rgb(24 147 209);&class=tag&data-lang=archlinux&class=contributing-->  
+[YUM](./docs/yum.md)<!--rehype:style=background: rgb(86 86 123);-->  
 <!--rehype:class=home-card-->
 
 ## 数据库
@@ -201,6 +208,7 @@ Quick Reference
 [Android Studio](./docs/android-studio.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [Blender](./docs/blender.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [Firefox](./docs/firefox.md)<!--rehype:style=background: rgb(253 53 76);-->  
+[Finder](./docs/finder.md)<!--rehype:style=background: rgb(253 53 76);&class=tag&data-lang=macOS-->  
 [Gmail](./docs/gmail.md)<!--rehype:style=background: rgb(234 67 54);-->  
 [Gitlab](./docs/gitlab.md)<!--rehype:style=background: rgb(226 67 41);-->  
 [Google Chrome](./docs/google-chrome.md)<!--rehype:style=background: rgb(29 116 232);-->  
@@ -266,6 +274,9 @@ Quick Reference
 <a href="https://github.com/Alex20180512" title="Alex">
   <img src="https://avatars.githubusercontent.com/u/115539090?v=4" width="42;" alt="Alex"/>
 </a>
+<a href="https://github.com/nangongchengfeng" title="南宫乘风">
+  <img src="https://avatars.githubusercontent.com/u/46562911?v=4" width="42;" alt="南宫乘风"/>
+</a>
 <a href="https://github.com/undefined-hestudio" title="undefined">
   <img src="https://avatars.githubusercontent.com/u/119711513?v=4" width="42;" alt="undefined"/>
 </a>
@@ -290,6 +301,9 @@ Quick Reference
 <a href="https://github.com/chaos-cn" title="chaos">
   <img src="https://avatars.githubusercontent.com/u/71205599?v=4" width="42;" alt="chaos"/>
 </a>
+<a href="https://github.com/1250422131" title="萌新杰少">
+  <img src="https://avatars.githubusercontent.com/u/52126790?v=4" width="42;" alt="萌新杰少"/>
+</a>
 <a href="https://github.com/MackDing" title="Blossom">
   <img src="https://avatars.githubusercontent.com/u/19878893?v=4" width="42;" alt="Blossom"/>
 </a>
@@ -304,9 +318,6 @@ Quick Reference
 </a>
 <a href="https://github.com/wsypower" title="魏">
   <img src="https://avatars.githubusercontent.com/u/31298317?v=4" width="42;" alt="魏"/>
-</a>
-<a href="https://github.com/1250422131" title="萌新杰少">
-  <img src="https://avatars.githubusercontent.com/u/52126790?v=4" width="42;" alt="萌新杰少"/>
 </a>
 <a href="https://github.com/itldg" title="老大哥">
   <img src="https://avatars.githubusercontent.com/u/13432299?v=4" width="42;" alt="老大哥"/>
@@ -569,8 +580,8 @@ Quick Reference
 <a href="https://github.com/BATTLEHAWK00" title="While True: learn()">
   <img src="https://avatars.githubusercontent.com/u/45313304?v=4" width="42;" alt="While True: learn()"/>
 </a>
-<a href="https://github.com/whb1998a" title="WHB">
-  <img src="https://avatars.githubusercontent.com/u/44045064?v=4" width="42;" alt="WHB"/>
+<a href="https://github.com/whb1998a" title="Wafer">
+  <img src="https://avatars.githubusercontent.com/u/44045064?v=4" width="42;" alt="Wafer"/>
 </a>
 <a href="https://github.com/YLee9527" title="Terry Young">
   <img src="https://avatars.githubusercontent.com/u/18697332?v=4" width="42;" alt="Terry Young"/>
@@ -633,6 +644,8 @@ Quick Reference
 [srebro.cn](https://ref.srebro.cn)<!--rehype:target=_blank&data-info=👆每天自动同步-->
 [haah.net](https://ref.haah.net)<!--rehype:target=_blank&data-info=👆每天自动同步-->
 [xiechengqi.top](https://ref.xiechengqi.top)<!--rehype:target=_blank&data-info=👆每天自动同步-->
+[ownit.top](https://memo.ownit.top)<!--rehype:target=_blank&data-info=👆每十分钟自动同步-->
+[666666.dev](https://cheat.666666.dev)<!--rehype:target=_blank&data-info=👆每天自动同步-->
 [laoleng.vip](http://bbs.laoleng.vip/reference/)<!--rehype:target=_blank-->
 [dbyun.net](https://www.dbyun.net/reference/index.html)<!--rehype:target=_blank-->
 [if010.com](https://quickref.if010.com/)<!--rehype:target=_blank-->
@@ -682,9 +695,15 @@ Quick Reference
 [chanlun.pro](https://ref.chanlun.pro)<!--rehype:target=_blank-->
 [likui.info](https://r.likui.info)<!--rehype:target=_blank-->
 [ruiange.work](https://code.ruiange.work/)<!--rehype:target=_blank-->
+[denganliang.com](https://ref.denganliang.com)<!--rehype:target=_blank-->
+[coderjia.cn](https://refer.coderjia.cn)<!--rehype:target=_blank-->
+[ivanz.cc](https://ref.ivanz.cc)<!--rehype:target=_blank-->
+[dev6.site](https://ref.dev6.site/)<!--rehype:target=_blank-->
 <!--rehype:class=home-card home-links-->
 
 如果你有资源，可以很方便[部署 web 版](https://github.com/jaywcjlove/reference/issues/102#issue-1451649637)，这非常简单，只需要克隆 [gh-pages](https://github.com/jaywcjlove/reference/tree/gh-pages) 分支代码到你的静态服务就可以了，还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版。
+
+
 
 <!--rehype:ignore:start-->
 ## License
